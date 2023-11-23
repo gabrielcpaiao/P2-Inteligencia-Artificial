@@ -1,5 +1,5 @@
 # Instalando o TensorFlow
-pip install tensorflow
+!pip install tensorflow
  
 # Importando bibliotecas
 import tensorflow as tf
